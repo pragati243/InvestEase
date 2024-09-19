@@ -72,7 +72,7 @@ Customers and Mutual Funds: One-to-Many relationship, where each customer can ha
 1. Spring Core – Dependency Injection and Inversion of Control
 2. Web MVC architectural pattern
 3. Validation – Validator
-4. Password using unquie key generating
+4. Password using unique key generating
 5. JSON Binding
 8. Rest Template
 9. Apache Common Email
@@ -92,7 +92,7 @@ Customers and Mutual Funds: One-to-Many relationship, where each customer can ha
 - JDK (jdk 10 and above)
 - JRE(any latest versions)
 - Tomcat Server
-- Web Browser(Google Crome, Mozilla Firefox, Microsoft Edge)
+- Web Browser(Google Chrome, Mozilla Firefox, Microsoft Edge)
 
 # Running the Project
 - Clone the repository as a maven project.
@@ -100,14 +100,7 @@ Customers and Mutual Funds: One-to-Many relationship, where each customer can ha
 - Run Application.java to run the application.
 - You will see the processing and verification of the process during the Application run.
 - Open Browser and Type in [localhost:{server_port}](https://locallhost.com/). <br/>(Server Port Depends on local System you can change it by going here [server.port](https://github.com/modhtanmay/Stock-Trading-Management/blob/master/Share-Data/src/main/resources/application.properties))
-- That's it You are Good to go!!!.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at manojsahoo890880@gmail.com
-
-
+- That's it. You are Good to go!!!.
 
 
 
