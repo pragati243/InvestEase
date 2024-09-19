@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2797e84-fdc4-4c76-a1f0-c7cc10f92743))
+![InvestEase](https://github.com/user-attachments/assets/b2797e84-fdc4-4c76-a1f0-c7cc10f92743))
 # InvestEase
 
 The Stock Broker Application built using the Spring Boot framework is a powerful web-based tool that enables customers to invest in the stock market seamlessly. It provides customers with a secure and intuitive platform that facilitates buying and selling of shares of various companies.With the ability to create and manage their demat account, customers can easily add funds and store their investments in a virtual wallet. They can track their transaction history, view stock market analysis, and stay updated with real-time price updates to make informed decisions while investing.
