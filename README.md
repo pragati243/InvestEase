@@ -1,5 +1,5 @@
 ![STOCKMAN](https://user-images.githubusercontent.com/112793753/236413005-44badfe6-f862-4ea8-a2d1-87b9f230a380.jpg)
-# StockMan
+# InvestEase
 
 The Stock Broker Application built using the Spring Boot framework is a powerful web-based tool that enables customers to invest in the stock market seamlessly. It provides customers with a secure and intuitive platform that facilitates buying and selling of shares of various companies.With the ability to create and manage their demat account, customers can easily add funds and store their investments in a virtual wallet. They can track their transaction history, view stock market analysis, and stay updated with real-time price updates to make informed decisions while investing.
 
